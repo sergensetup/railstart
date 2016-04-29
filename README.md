@@ -1,6 +1,7 @@
-# mosi
+# Mosi
 
-For my first api, I have choosed to build a marketplace from scratch with Ruby On Rails !
+For our first api, we choosed to build a marketplace from scratch with Ruby On Rails !
+
+We called it Mosi.
 
 Any advice, any help => warmly welcome.
-# mosi
